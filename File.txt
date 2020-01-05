@@ -2,3 +2,15 @@ Content and Content
 Content and Content
 Some words
 More
+<<<<<<< HEAD
+=======
+Content and Content
+Content and Content
+-------------------
+Content and Content
+Content and Content
+Some words
+More
+Content and Content
+Content and Content
+>>>>>>> add second paragraph
